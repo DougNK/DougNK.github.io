@@ -1,1 +1,0 @@
-Directory that holds images
